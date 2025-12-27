@@ -1,0 +1,7 @@
+{
+  "name": "Matt's Auto Rental",
+  "description": "Premium car rental service with a built-in AI voice concierge powered by Gemini 2.5 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
